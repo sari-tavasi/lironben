@@ -3,7 +3,7 @@
     
     font-family: "Noto Serif Hebrew", serif;
     font-weight: bold;
-    background-color: #fde3e3;
+    background-color: #fffafa;
 background-image: url("https://www.transparenttextures.com/patterns/back-pattern.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 position: sticky; 
@@ -58,7 +58,7 @@ font-family: "Lunasima", sans-serif;
 }
 
 body{
-    background-color: #fff7f7;
+    background-color: #ffffff;
     background-image: url("https://www.transparenttextures.com/patterns/back-pattern.png");
     /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
