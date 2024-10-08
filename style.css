@@ -1,0 +1,76 @@
+.navbar{
+    display: flex;
+    
+    font-family: "Noto Serif Hebrew", serif;
+    font-weight: bold;
+    background-color: #fffafa;
+background-image: url("https://www.transparenttextures.com/patterns/back-pattern.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+position: sticky; 
+    top: 0; 
+    width: 100%; 
+    z-index: 1000; 
+
+}
+h2{
+    font-family: "Noto Serif Hebrew", serif;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+h3{
+    font-family: "Noto Serif Hebrew", serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+.text-body-emphasis{
+font-family: "Lunasima", sans-serif; 
+  font-weight: 400;
+  color: #01204E  !important;
+  font-size: 30px;
+}
+.hero{
+
+    color: black;
+}
+.link{
+    color: black;
+    text-decoration: none;
+}
+.d-block{
+    margin-right: 25px;
+
+}
+.overflow-hidden{
+ 
+    filter: brightness(35%) ;
+}
+#liron{
+    border-radius: 5%;
+
+}
+.hr{
+    margin-top: 7%
+}
+.hr3{
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+
+body{
+    background-color: #ffffff;
+    background-image: url("https://www.transparenttextures.com/patterns/back-pattern.png");
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.glow {
+    
+    transition: text-shadow 0.3s ease 0.1s; /* Smooth transition */
+}
+
+.glow:hover {
+    text-shadow: 
+        0 0 5px silver,      /* Soft silver glow */
+        0 0 10px silver,     /* More pronounced silver */
+        0 0 15px rgba(255, 255, 255, 0.5); /* Subtle white glow */
+}
